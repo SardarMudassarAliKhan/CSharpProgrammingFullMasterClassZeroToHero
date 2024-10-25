@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp-Programming-Fundamentals\1-CSharp-Programming-Fundamentals.csproj" />
+  </ItemGroup>
+
 </Project>

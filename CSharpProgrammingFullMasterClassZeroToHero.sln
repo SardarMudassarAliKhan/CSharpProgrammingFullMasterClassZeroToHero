@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpProgrammingFullMasterClassZeroToHero", "CSharpProgrammingFullMasterClassZeroToHero\CSharpProgrammingFullMasterClassZeroToHero.csproj", "{57E36254-B02E-4D4A-9A50-86301C1BC25F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Programming-Fundamentals", "CSharp-Programming-Fundamentals\CSharp-Programming-Fundamentals.csproj", "{A995CF72-DC04-4CE3-944A-B85E92E4181F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-CSharp-Programming-Fundamentals", "CSharp-Programming-Fundamentals\1-CSharp-Programming-Fundamentals.csproj", "{A995CF72-DC04-4CE3-944A-B85E92E4181F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
